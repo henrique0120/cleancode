@@ -1,0 +1,14 @@
+C:\Users\henri\Desktop\cleancode\bin\Debug\net9.0\cleancode.exe
+C:\Users\henri\Desktop\cleancode\bin\Debug\net9.0\cleancode.deps.json
+C:\Users\henri\Desktop\cleancode\bin\Debug\net9.0\cleancode.runtimeconfig.json
+C:\Users\henri\Desktop\cleancode\bin\Debug\net9.0\cleancode.dll
+C:\Users\henri\Desktop\cleancode\bin\Debug\net9.0\cleancode.pdb
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.AssemblyInfo.cs
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.dll
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\refint\cleancode.dll
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.pdb
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\cleancode.genruntimeconfig.cache
+C:\Users\henri\Desktop\cleancode\obj\Debug\net9.0\ref\cleancode.dll
